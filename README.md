@@ -41,5 +41,3 @@ The Realtime Code Editor can be customized by creating a `.env` file in the root
 ## License
 
 The Realtime Code Editor is licensed under the MIT License. See [LICENSE](LICENSE.md) for more information.
-# LightCode
-# LightCode
